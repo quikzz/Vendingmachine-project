@@ -1,0 +1,17 @@
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.csproj.AssemblyReference.cache
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\Test inlämningsuppgift csharp.exe
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\Test inlämningsuppgift csharp.deps.json
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\Test inlämningsuppgift csharp.runtimeconfig.json
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\Test inlämningsuppgift csharp.dll
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\Test inlämningsuppgift csharp.pdb
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.dll
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\refint\Test inlämningsuppgift csharp.dll
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.pdb
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\ref\Test inlämningsuppgift csharp.dll
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\Hampus\source\repos\Test inlämningsuppgift csharp\Test inlämningsuppgift csharp\obj\Debug\net6.0\Test inlämningsuppgift csharp.csproj.CopyComplete
