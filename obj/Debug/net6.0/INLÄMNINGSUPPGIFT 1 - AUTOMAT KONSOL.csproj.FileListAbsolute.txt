@@ -1,17 +1,34 @@
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.exe
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.deps.json
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.runtimeconfig.json
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\bin\Debug\net6.0\ConsoleTables.dll
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.AssemblyReference.cache
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfoInputs.cache
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfo.cs
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CoreCompileInputs.cache
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CopyComplete
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\refint\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.genruntimeconfig.cache
-C:\Users\Hampus\source\repos\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\obj\Debug\net6.0\ref\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.exe
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.deps.json
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.runtimeconfig.json
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/bin/Debug/net6.0/ConsoleTables.dll
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.AssemblyReference.cache
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfoInputs.cache
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfo.cs
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CoreCompileInputs.cache
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CopyComplete
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/refint/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.genruntimeconfig.cache
+C:/Users/Hampus/source/repos/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL/obj/Debug/net6.0/ref/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.deps.json
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.runtimeconfig.json
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/bin/Debug/net6.0/ConsoleTables.dll
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.AssemblyReference.cache
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfoInputs.cache
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.AssemblyInfo.cs
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CoreCompileInputs.cache
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj.CopyComplete
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/refint/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.pdb
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.genruntimeconfig.cache
+/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/Debug/net6.0/ref/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.dll

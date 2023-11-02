@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{605A0282-9D0E-4D14-AEC5-96E9D6AB23BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.INLÄMNINGSUPPGIFT_2201_220-_220AUTOMAT_220KONSOL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

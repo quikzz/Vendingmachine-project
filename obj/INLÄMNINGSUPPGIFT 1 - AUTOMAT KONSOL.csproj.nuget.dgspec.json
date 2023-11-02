@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hampus\\source\\repos\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj": {}
+    "/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hampus\\source\\repos\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj": {
+    "/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hampus\\source\\repos\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj",
+        "projectUniqueName": "/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj",
         "projectName": "INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL",
-        "projectPath": "C:\\Users\\Hampus\\source\\repos\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj",
-        "packagesPath": "C:\\Users\\Hampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hampus\\source\\repos\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL\\obj\\",
+        "projectPath": "/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/INLÄMNINGSUPPGIFT 1 - AUTOMAT KONSOL.csproj",
+        "packagesPath": "/Users/hampushakansson/.nuget/packages/",
+        "outputPath": "/Users/hampushakansson/Documents/GitHub/Vendingmachine-project/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hampus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hampushakansson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }
